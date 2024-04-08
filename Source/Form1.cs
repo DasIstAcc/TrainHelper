@@ -16,5 +16,10 @@ namespace TrainHelper
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Wow that was really cool!");
+        }
     }
 }

@@ -1,0 +1,11 @@
+D:\For_Study\TrainHelper\Source\bin\Debug\TrainHelper.exe.config
+D:\For_Study\TrainHelper\Source\bin\Debug\TrainHelper.exe
+D:\For_Study\TrainHelper\Source\bin\Debug\TrainHelper.pdb
+D:\For_Study\TrainHelper\Source\obj\Debug\TrainHelper.csproj.AssemblyReference.cache
+D:\For_Study\TrainHelper\Source\obj\Debug\TrainHelper.csproj.SuggestedBindingRedirects.cache
+D:\For_Study\TrainHelper\Source\obj\Debug\TrainHelper.Form1.resources
+D:\For_Study\TrainHelper\Source\obj\Debug\TrainHelper.Properties.Resources.resources
+D:\For_Study\TrainHelper\Source\obj\Debug\TrainHelper.csproj.GenerateResource.cache
+D:\For_Study\TrainHelper\Source\obj\Debug\TrainHelper.csproj.CoreCompileInputs.cache
+D:\For_Study\TrainHelper\Source\obj\Debug\TrainHelper.exe
+D:\For_Study\TrainHelper\Source\obj\Debug\TrainHelper.pdb
